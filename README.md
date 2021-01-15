@@ -9,3 +9,7 @@ The dataset can be downloaded from [kaggle](https://www.kaggle.com/landlord/hand
 
 ## Training the model
 
+https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3/blob/770b3d4fef81550a9389a8fe701e89b854833d0a/yolov3/yolov4.py#L77
+
+This code
+
